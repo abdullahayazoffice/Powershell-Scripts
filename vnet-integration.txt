@@ -1,3 +1,0 @@
- $allWebApps =Get-AzFunctionApp
-  //$AllMyWebApps = @()
-az functionapp vnet-integration list --name FUNCLoggingStorage --resource-group POD-DEV1-FRM-RG 

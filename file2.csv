@@ -1,4 +1,0 @@
-#TYPE System.Management.Automation.PSCustomObject
-"AppServiceName","ServerFarm","ResourceGroup","Location","VNetName","SubnetName","VNetRG"
-"System.Object[]","OTHL-QnA-CSR","System.Object[]","System.Object[]",,,
-"System.Object[]","TMVSBSendMessageFunc20201007091225Plan","System.Object[]","System.Object[]",,,
